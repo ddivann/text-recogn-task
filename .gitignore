@@ -1,0 +1,40 @@
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+
+# Кэш Python и байт-код
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Временные папки и служебные утилиты
+tmp/
+temp/
+.tools/
+
+# Архивы и тяжелые медиафайлы
+*.zip
+*.tar.gz
+*.rar
+*.7z
+demo.mp4
+*.mp4
+*.avi
+*.mov
+
+# Исходное тестовое задание (в репозитории остаётся только итоговый report.docx)
+Тестовое задание*.docx
+
+# Настройки IDE и редакторов
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Системные файлы
+Thumbs.db
+Desktop.ini
+.DS_Store
